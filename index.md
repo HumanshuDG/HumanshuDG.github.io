@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-FFFFFF?style=flat&logo=Gmail&link=mailto:humanshu12345@gmail.com)](mailto:humanshu12345@gmail.com)
 
 <h1 align="center"> <br>
-  <img src="/GIFs/Hi%20emoji.gif" width="29px"/>
+  <img src="/GIFs/Hi%20emoji.gif" width="30px"/>
   Hi, I'm Humanshu.
 </h1>
 
@@ -35,7 +35,7 @@
   </td>
 </table> <br>
 
-## 👨🏻‍💼 Work Experience
+## 👨🏻‍💼 Experience
 <table align="center">
   <td>
     👨🏻‍💻 IIT Booth Coordinator at PanIIT Alumni India. <br>
@@ -45,13 +45,14 @@
   </td>
 </table> <br>
 
-## My GitHub Statistics:
+## :octocat: My GitHub Statistics:
 
 <table>
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" />
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=jolly&layout=compact" alt="HumanshuDG" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" >
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" >
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=jolly&layout=compact">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=radical&layout=compact">
   </p>
 </table>
 
