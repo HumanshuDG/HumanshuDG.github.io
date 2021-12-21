@@ -22,10 +22,15 @@
 - Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br> <br>
 
 ## 🏆 Achievements
-- Pursuing Game Design Master Course from Game Design School, Finland. <br>
-- Pursuing BSc in Programming and Data Science from IIT Madras. <br>
-- Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
-- Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br> <br>
+- **SOF’s National Cyber Olympiad – 2019** Zonal Rank – 1 and International Rank – 7. <br>
+- **RoboTryst IIT-Delhi – 2016** Participated in Final Rounds held at IIT-D and Zonal Rank – IIIRD.<br>
+- **Technothlon IIT-Guwahati – 2015** All India Rank (Junior Squad) – 46. <br>
+- Participated in: 
+  - **Jawaharlal Nehru National Science Exhibition – 2017.**
+  - **KVS Regional Social Science Exhibition – 2017/2016.**
+  - **KVS Bharat Scouts & Guides Cub-Bulbul Utsav – 2012.**
+  - **National Integration Camp – 2012.**
+  - And various school level medals in SOF’s Olympiads. <br> <br>
 
 ## 👨🏻‍💼 Experience
 - IIT Booth Coordinator at PanIIT Alumni India. <br>
