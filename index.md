@@ -122,47 +122,28 @@
   </a>
 </p> <br>
 
-
 <h2>
   <img src = "/GIFs/Connect [Dark-Mode].gif" width = 50px>
-  Connect with me
+  Connect with me on
 </h2>
-<p align="left">
-<div class="footer" id="top3">
-  <center> 
-   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>
-   <a href="https://github.com/chhabraharsh37" class="pics"> <img src="pics/github.svg" height="36vh"></a>
-    <a href="https://www.twitter.com/harshchhabra37" class="pics"><img src="pics/twitter.svg" height="36vh"></a>
-    <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="pics/instagram.svg" height="36vh"></a>
-  <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh"></a>
-  <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh"></a>
-   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
-  
+<p>
+  <div>
+    <center>
+      <a href="https://www.linkedin.com/in/HumanshuDG" class="pics">
+        <img src="/LOGOs/LinkedIn.svg" height="50vh" width="50vh">
+      </a>
+      <a href="https://github.com/HumanshuDG" class="pics">
+        <img src="/LOGOs/GitHub.svg" height="50vh" width="50vh ">
+      </a>
+      <a href="https://www.twitter.com/HumanshuDG" class="pics">
+        <img src="/LOGOs/Twitter.svg" height="50vh" width="50vh">
+      </a>
+      <a href="https://www.instagram.com/HumanshuDG" class="pics">
+        <img src="/LOGOs/Instagram.svg" height="50vh" width="50vh">
+      </a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=humanshu12345@gmail.com">
+        <img src="/LOGOs/GMail.svg" height="50vh" width="50vh">
+      </a>
+    </center>
   </div>
 </p>
-<p align="center"> 
- 
-
-
-
-## Badges
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-
-
-
-
-
-
-
-
--------------------------------------------------------------------------------------------
-# My trash
-|  |
-| :----------------------- |
-| Pursuing BSc in Programming and Data Science from IIT Madras. |
-| Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE. |
-| Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. 
-|🤞  I have been <strong>MLH Fellowship holder </strong> for Pre-Fellowship Summer'21 and  <strong>Software Engineering </strong> Track Fall'21 (2x). |
----------------------
