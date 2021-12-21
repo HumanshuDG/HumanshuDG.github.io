@@ -99,19 +99,19 @@
 </h2>
 <p>
   <div>
-      <a href="https://www.linkedin.com/in/HumanshuDG" class="pics">
+      <a style="text-decoration:none;" href="https://www.linkedin.com/in/HumanshuDG" class="pics">
         <img src="/LOGOs/LinkedIn.svg" height="50vh" width="50vh">
       </a>
-      <a href="https://github.com/HumanshuDG" class="pics">
+      <a style="text-decoration:none;" href="https://github.com/HumanshuDG" class="pics">
         <img src="/LOGOs/GitHub.svg" height="50vh" width="50vh ">
       </a>
-      <a href="https://www.twitter.com/HumanshuDG" class="pics">
+      <a style="text-decoration:none;" href="https://www.twitter.com/HumanshuDG" class="pics">
         <img src="/LOGOs/Twitter.svg" height="50vh" width="50vh">
       </a>
-      <a href="https://www.instagram.com/HumanshuDG" class="pics">
+      <a style="text-decoration:none;" href="https://www.instagram.com/HumanshuDG" class="pics">
         <img src="/LOGOs/Instagram.svg" height="50vh" width="50vh">
       </a>
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=humanshu12345@gmail.com">
+      <a style="text-decoration:none;" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=humanshu12345@gmail.com">
         <img src="/LOGOs/GMail.svg" height="50vh" width="50vh">
       </a>
   </div>
