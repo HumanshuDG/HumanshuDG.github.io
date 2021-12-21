@@ -100,7 +100,6 @@
 </h2>
 <p>
   <div>
-    <center>
       <a href="https://www.linkedin.com/in/HumanshuDG" class="pics">
         <img src="/LOGOs/LinkedIn.svg" height="50vh" width="50vh">
       </a>
@@ -116,9 +115,8 @@
       <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=humanshu12345@gmail.com">
         <img src="/LOGOs/GMail.svg" height="50vh" width="50vh">
       </a>
-    </center>
   </div>
-</p>
+</p> <br>
 
 <h2>
   <img src="/LOGOs/GitHub.svg" height="27px" width="27px">
@@ -134,7 +132,7 @@
 
 ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&bg_color=291B3E&color=DD58C1&line=DD58C1&point=A861FF&area=true&hide_border=true)
 <details align="center">
-  <summary> <samp>&#9776; Details </samp></summary>
+  <summary> <samp>&#9776; More details </samp></summary>
     <p align="center">
       <img alt="My GitHub Metrics" src="https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta">
     </p>
