@@ -15,35 +15,23 @@
 
 ![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)
 
-## 📜 Educational Qualification
-<table align="center">
-  <td>
-    👨🏻‍🎓 Pursuing Game Design Master Course from Game Design School, Finland. <br>
-    👨🏻‍🎓 Pursuing BSc in Programming and Data Science from IIT Madras. <br>
-    👨🏻‍🎓 Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
-    🎓 Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br>
-  </td>
-</table> <br>
+## 📜 Education
+- Pursuing Game Design Master Course from Game Design School, Finland. <br>
+- Pursuing BSc in Programming and Data Science from IIT Madras. <br>
+- Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
+- Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br> <br>
 
 ## 🏆 Achievements
-<table align="center">
-  <td>
-    ✨ Pursuing Game Design Master Course from Game Design School, Finland. <br>
-    ✨ Pursuing BSc in Programming and Data Science from IIT Madras. <br>
-    ✨ Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
-    ✨ Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br>
-  </td>
-</table> <br>
+- Pursuing Game Design Master Course from Game Design School, Finland. <br>
+- Pursuing BSc in Programming and Data Science from IIT Madras. <br>
+- Pursuing BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning from YCCE, Nagpur. <br>
+- Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br> <br>
 
 ## 👨🏻‍💼 Experience
-<table align="center">
-  <td>
-    👨🏻‍💻 IIT Booth Coordinator at PanIIT Alumni India. <br>
-    👨🏻‍💻 Conference Auditorium Coordinator at PanIIT Alumni India. <br>
-    👨🏻‍💻 College Ambassador at Techfest, IIT Bombay. <br>
-    👨🏻‍💻 Indigo Squad Member at Mood Indigo, IIT Bombay. <br>
-  </td>
-</table> <br>
+- IIT Booth Coordinator at PanIIT Alumni India. <br>
+- Conference Auditorium Coordinator at PanIIT Alumni India. <br>
+- College Ambassador at Techfest, IIT Bombay. <br>
+- Indigo Squad Member at Mood Indigo, IIT Bombay. <br> <br>
 
 <h2>
   <img src = "/GIFs/Skills.gif" height="27px" width="27px">
@@ -75,9 +63,6 @@
     <img width ='50px' src ='LOGOs/WordPress.svg'>
   </a>
   <a>
-    <img width ='50px' src ='LOGOs/GitHub.svg'>
-  </a>
-  <a>
     <img width ='50px' src ='LOGOs/MySQL.svg'>
   </a>
   <a>
@@ -91,6 +76,9 @@
   </a>
   <a>
     <img width ='50px' src ='LOGOs/JuPyteR.svg'>
+  </a>
+  <a>
+    <img width ='50px' src ='LOGOs/GitHub.svg'>
   </a>
 </p> <br>
 
