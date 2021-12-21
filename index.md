@@ -9,13 +9,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-FFFFFF?style=flat&logo=Gmail&link=mailto:humanshu12345@gmail.com)](mailto:humanshu12345@gmail.com)
 
 <h1 align="center"> <br>
-  <img src="/GIFs/Hi%20emoji.gif" width="30px"/>
+  <img src="/GIFs/Hi emoji.gif" width="30px"/>
   Hi, I'm Humanshu.
 </h1>
 
 [![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-## 📝 Educational Qualification
+## 📜 Educational Qualification
 <table align="center">
   <td>
     👨🏻‍🎓 Pursuing Game Design Master Course from Game Design School, Finland. <br>
@@ -45,7 +45,20 @@
   </td>
 </table> <br>
 
-## :octocat: My GitHub Statistics:
+
+
+
+<h2>
+  <img src="/LOGOs/GitHub.svg" height="28px" width="30px">
+  My GitHub Statistics:
+</h2>
+
+
+
+
+
+
+## My GitHub Statistics:
 
 <table>
   <p align="center">
