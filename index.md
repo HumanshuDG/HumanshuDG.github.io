@@ -61,7 +61,7 @@
 <details align="center">
   <summary> <samp>&#9776; Details </samp></summary>
     <p align="center">
-        <img alt="My GitHub Metrics" src="https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta">
+      <img alt="My GitHub Metrics" src="https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta">
     </p>
     <p align="center">
       <h3>
@@ -70,51 +70,55 @@
       <a>
         <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai">
       </a>
-  </p> <hr>
+    </p>
 </details> <br>
+
+<h2>
+  <img src = "/GIFs/Skills.gif" width = 32px>
+  Skill set
+</h2>
 <p>
-  <h2> <img src = "/GIFs/Skills.gif" width = 32px> Skill set </h2> <br>
   <a>
-    <img width ='36px' src ='LOGOs/R.svg'>
+    <img width ='50px' src ='LOGOs/R.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/Python.svg'>
+    <img width ='50px' src ='LOGOs/Python.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/Java.svg'>
+    <img width ='50px' src ='LOGOs/Java.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/C.svg'>
+    <img width ='50px' src ='LOGOs/C.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/C++.svg'>
+    <img width ='50px' src ='LOGOs/C++.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/Linux.svg'>
+    <img width ='50px' src ='LOGOs/Linux.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/Google Cloud.svg'>
+    <img width ='50px' src ='LOGOs/Google Cloud.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/WordPress.svg'>
+    <img width ='50px' src ='LOGOs/WordPress.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/GitHub.svg'>
+    <img width ='50px' src ='LOGOs/GitHub.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/MySQL.svg'>
+    <img width ='50px' src ='LOGOs/MySQL.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/HTML-5.svg'>
+    <img width ='50px' src ='LOGOs/HTML-5.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/CSS.svg'>
+    <img width ='50px' src ='LOGOs/CSS.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/JavaScript.svg'>
+    <img width ='50px' src ='LOGOs/JavaScript.svg'>
   </a>
   <a>
-    <img width ='36px' src ='LOGOs/JuPyteR.svg'>
+    <img width ='50px' src ='LOGOs/JuPyteR.svg'>
   </a>
 </p> <br>
 
