@@ -13,6 +13,10 @@
   Hi, I'm Humanshu.
 </h1>
 
+
+
+
+
 ![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)
 
 ## 📜 Educational Qualification
@@ -57,7 +61,7 @@
   </p>
 </table>
 
-![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=redical) <br> <br>
+![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&bg_color=301c3c&color=e05cc4&line=e05cc4&point=ac64fc&area=true&hide_border=true)
 
 <details align="center">
   <summary> <samp>&#9776; Details </samp></summary>
