@@ -38,6 +38,12 @@
 - College Ambassador at Techfest, IIT Bombay. <br>
 - Indigo Squad Member at Mood Indigo, IIT Bombay. <br> <br>
 
+## 👨🏻‍💼 Interests and Hobbies
+- Conscientiousness. <br>
+- Psychology. <br>
+- Music. <br>
+- Footbally. <br> <br>
+
 <h2>
   <img src = "/GIFs/Skills.gif" height="27px" width="27px">
   Skill set
