@@ -13,10 +13,6 @@
   Hi, I'm Humanshu.
 </h1>
 
-
-
-
-
 ![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)
 
 ## 📜 Educational Qualification
@@ -69,11 +65,11 @@
         <img alt="My GitHub Metrics" src="https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta">
     </p>
     <p align="center">
-      <h4>
+      <h3>
         🏆 Github Profile Trophies
-      </h4>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai&row=1&column=8">
+      </h3>
+      <a>
+        <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai">
       </a>
   </p> <hr>
 </details>
