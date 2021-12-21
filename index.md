@@ -46,34 +46,6 @@
 </table> <br>
 
 <h2>
-  <img src="/LOGOs/GitHub.svg" height="27px" width="27px">
-  My GitHub Statistics:
-</h2>
-<table>
-  <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" >
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" >
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=jolly&layout=compact">
-  </p>
-</table>
-
-![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&bg_color=291B3E&color=DD58C1&line=DD58C1&point=A861FF&area=true&hide_border=true)
-<details align="center">
-  <summary> <samp>&#9776; Details </samp></summary>
-    <p align="center">
-      <img alt="My GitHub Metrics" src="https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta">
-    </p>
-    <p align="center">
-      <h3>
-        🏆 Github Profile Trophies
-      </h3>
-      <a>
-        <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai">
-      </a>
-    </p>
-</details> <br>
-
-<h2>
   <img src = "/GIFs/Skills.gif" height="27px" width="27px">
   Skill set
 </h2>
@@ -147,3 +119,31 @@
     </center>
   </div>
 </p>
+
+<h2>
+  <img src="/LOGOs/GitHub.svg" height="27px" width="27px">
+  My GitHub Statistics:
+</h2>
+<table>
+  <p align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" >
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" >
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=jolly&layout=compact">
+  </p>
+</table>
+
+![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&bg_color=291B3E&color=DD58C1&line=DD58C1&point=A861FF&area=true&hide_border=true)
+<details align="center">
+  <summary> <samp>&#9776; Details </samp></summary>
+    <p align="center">
+      <img alt="My GitHub Metrics" src="https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta">
+    </p>
+    <p align="center">
+      <h3>
+        🏆 Github Profile Trophies
+      </h3>
+      <a>
+        <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai">
+      </a>
+    </p>
+</details> <br> <hr>
