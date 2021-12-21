@@ -146,4 +146,6 @@
         <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai">
       </a>
     </p>
-</details> <br> <hr>
+</details> <br> 
+
+<hr>
