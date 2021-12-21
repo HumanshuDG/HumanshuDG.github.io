@@ -57,8 +57,7 @@
   </p>
 </table>
 
-![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&bg_color=241c3c&color=e05cc4&line=e05cc4&point=ac64fc&area=true&hide_border=true)
-
+![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&bg_color=291B3E&color=DD58C1&line=DD58C1&point=A861FF&area=true&hide_border=true)
 <details align="center">
   <summary> <samp>&#9776; Details </samp></summary>
     <p align="center">
