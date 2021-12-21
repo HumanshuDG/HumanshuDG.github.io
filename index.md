@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-FFFFFF?style=flat&logo=Gmail&link=mailto:humanshu12345@gmail.com)](mailto:humanshu12345@gmail.com)
 
 <h1 align="center"> <br>
-  <img src="https://github.com/HumanshuDG/HumanshuDG/blob/b036ade1b1fcedb3bdca1076d3fa41b5b789c565/GIFs/Hi%20emoji.gif" width="29px"/>
+  <img src="/GIFs/Hi%20emoji.gif" width="29px"/>
   Hi, I'm Humanshu.
 </h1>
 
