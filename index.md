@@ -54,21 +54,24 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" >
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" >
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=jolly&layout=compact">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=radical&layout=compact">
   </p>
 </table>
 
-![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=dracula) <br> <br>
+![My GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=HumanshuDG&theme=redical) <br> <br>
 
 <details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
+  <summary> <samp>&#9776; Details </samp></summary>
     <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="My GitHub Metrics"
-                src="https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta" />
-        <br>
+        <img alt="My GitHub Metrics" src="https://metrics.lecoq.io/HumanshuDG?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta">
     </p>
+    <p align="center">
+      <h4>
+        🏆 Github Profile Trophies
+      </h4>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai&row=1&column=8">
+      </a>
+  </p> <hr>
 </details>
 <br>
 <p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
@@ -119,12 +122,7 @@
 </p>
 <p align="center"> 
  
-<div align="center">
-  <h4>🏆 Github Profile Trophies</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=HumanshuDG&theme=monokai&row=1&column=8">
-  </a>
-</div><hr>
+
 
 
 ## Badges
