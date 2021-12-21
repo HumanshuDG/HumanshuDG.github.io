@@ -74,7 +74,7 @@
 </details> <br>
 
 <h2>
-  <img src = "/GIFs/Skills.gif" width = 32px>
+  <img src = "/GIFs/Skills.gif" height="27px" width="27px">
   Skill set
 </h2>
 <p>
@@ -123,9 +123,10 @@
 </p> <br>
 
 
-
-
-## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<h2>
+  <img src = "/GIFs/Connect [Dark-Mode].gif" width = 50px>
+  Connect with me
+</h2>
 <p align="left">
 <div class="footer" id="top3">
   <center> 
