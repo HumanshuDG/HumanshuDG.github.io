@@ -49,7 +49,7 @@
 
 
 <h2>
-  <img src="/LOGOs/GitHub.svg" height="28px" width="30px">
+  <img src="/LOGOs/GitHub.svg" height="27px" width="27px">
   My GitHub Statistics:
 </h2>
 
