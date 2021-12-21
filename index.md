@@ -45,21 +45,10 @@
   </td>
 </table> <br>
 
-
-
-
 <h2>
   <img src="/LOGOs/GitHub.svg" height="27px" width="27px">
   My GitHub Statistics:
 </h2>
-
-
-
-
-
-
-## My GitHub Statistics:
-
 <table>
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" >
