@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="/Pictures/La Energia.png">
+</head>
+
 [![GitHub Badge](https://img.shields.io/badge/-HumanshuDG-FFFFFF?&style=flat&logo=github&logoColor=000000&link=https://github.com/HumanshuDG?tab=followers)](https://github.com/HumanshuDG?tab=followers)
 [![Follower Count](https://img.shields.io/github/followers/HumanshuDG?label=Followers&color=dc5cc4&style=flat)](https://github.com/HumanshuDG?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=HumanshuDG&color=dc5cc4&style=flat)](https://github.com/HumanshuDG) <br>
