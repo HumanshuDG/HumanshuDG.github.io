@@ -1,7 +1,3 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="/Pictures/La Energia.png">
-</head>
-
 [![GitHub Badge](https://img.shields.io/badge/-HumanshuDG-FFFFFF?&style=flat&logo=github&logoColor=000000&link=https://github.com/HumanshuDG?tab=followers)](https://github.com/HumanshuDG?tab=followers)
 [![Follower Count](https://img.shields.io/github/followers/HumanshuDG?label=Followers&color=dc5cc4&style=flat)](https://github.com/HumanshuDG?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=HumanshuDG&color=dc5cc4&style=flat)](https://github.com/HumanshuDG) <br>
@@ -129,7 +125,7 @@
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HumanshuDG&show_icons=true&theme=jolly" >
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanshuDG&theme=jolly" >
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&count_private=true&theme=jolly&layout=compact">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumanshuDG&theme=jolly&layout=compact">
   </p>
 </table>
 
