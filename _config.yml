@@ -1,11 +1,11 @@
 - jekyll-remote-theme
 remote_theme: BDHU/minimalist
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: Humanshu D G
+description: Humanshu's Portfolio website
 
-color-scheme: auto/light/dark
+color-scheme: dark
 
-logo: /assets/img/<logo_file>
+logo: /Pictures/La Energia.png
 
 favicon: true
