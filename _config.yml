@@ -4,9 +4,4 @@ logo: /Pictures/La Energia.png
 favicon: true
 show_downloads: false
 remote_theme: BDHU/minimalist
-color-scheme: auto
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-remote-theme
+color-scheme: dark
