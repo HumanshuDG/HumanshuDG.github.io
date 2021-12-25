@@ -1,1 +1,11 @@
-theme: jekyll-theme-dinky
+- jekyll-remote-theme
+remote_theme: BDHU/minimalist
+
+title: [The title of your site]
+description: [A short description of your site's purpose]
+
+color-scheme: auto/light/dark
+
+logo: /assets/img/<logo_file>
+
+favicon: true
