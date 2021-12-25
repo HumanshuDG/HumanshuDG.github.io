@@ -8,12 +8,14 @@
 [![Medium Badge](https://img.shields.io/badge/-HumanshuDG-FFFFFF?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@HumanshuDG)](https://medium.com/@HumanshuDG)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-FFFFFF?style=flat&logo=Gmail&link=mailto:humanshu12345@gmail.com)](mailto:humanshu12345@gmail.com)
 
+<hr>
+
 <h1 align="center"> <br>
   <img src="/GIFs/Hi emoji.gif" width="30px"/>
   Hi, I'm Humanshu.
 </h1>
 
-![Welcome SVG](https://readme-typing-svg.herokuapp.com?color=%23DC5CC4&size=40&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+my+GitHub+Portfolio!)
+<img align="center" class="Welcome SVG" src="https://readme-typing-svg.herokuapp.com?color=%23DC5CC4&size=40&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+my+GitHub+Portfolio!" />
 
 ## 📜 Education
 - Pursuing **Game Design Master Course** from Game Design School, Finland. <br>
