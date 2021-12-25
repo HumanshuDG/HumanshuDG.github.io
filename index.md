@@ -1,5 +1,3 @@
-<hr>
-
 <h1 align="center"> <br>
   <img src="/GIFs/Hi emoji.gif" width="30px"/>
   Hi, I'm Humanshu.
