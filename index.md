@@ -13,7 +13,7 @@
   Hi, I'm Humanshu.
 </h1>
 
-![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)
+![Welcome SVG](https://readme-typing-svg.herokuapp.com?color=%23DC5CC4&size=40&width=1200&height=80&lines=Welcome+to+my+GitHub+Portfolio!)
 
 ## 📜 Education
 - Pursuing **Game Design Master Course** from Game Design School, Finland. <br>
