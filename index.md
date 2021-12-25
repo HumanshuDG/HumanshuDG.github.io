@@ -1,13 +1,3 @@
-[![GitHub Badge](https://img.shields.io/badge/-HumanshuDG-353535?&style=flat&logo=github&logoColor=000000&link=https://github.com/HumanshuDG?tab=followers)](https://github.com/HumanshuDG?tab=followers)
-[![Follower Count](https://img.shields.io/github/followers/HumanshuDG?label=Followers&color=dc5cc4&style=flat)](https://github.com/HumanshuDG?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=HumanshuDG&color=dc5cc4&style=flat)](https://github.com/HumanshuDG) <br>
-[![Twitter Badge](https://img.shields.io/badge/-HumanshuDG-353535?&style=flat&logo=twitter&link=https://twitter.com/HumanshuDG)](https://twitter.com/HumanshuDG)
-[![Linkedin Badge](https://img.shields.io/badge/-HumanshuDG-353535?style=flat&logo=Linkedin&logoColor=0072b1&link=https://www.linkedin.com/in/HumanshuDG)](https://www.linkedin.com/in/HumanshuDG)
-[![FaceBook Badge](https://img.shields.io/badge/-HumanshuDG-353535?style=flat&logo=facebook&link=https://facebook.com/HumanshuDG)](https://facebook.com/HumanshuDG)
-[![Instagram Badge](https://img.shields.io/badge/-HumanshuDG-353535?style=flat&logo=instagram&link=https://instagram.com/HumanshuDG)](https://instagram.com/HumanshuDG)
-[![Medium Badge](https://img.shields.io/badge/-HumanshuDG-353535?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@HumanshuDG)](https://medium.com/@HumanshuDG)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-353535?style=flat&logo=Gmail&link=mailto:humanshu12345@gmail.com)](mailto:humanshu12345@gmail.com)
-
 <hr>
 
 <h1 align="center"> <br>
@@ -23,28 +13,11 @@
 - Pursuing **BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning** from YCCE, Nagpur. <br>
 - Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br> <br>
 
-## 🏆 Achievements
-- **SOF’s National Cyber Olympiad – 2019** Zonal Rank – 1 and International Rank – 7. <br>
-- **RoboTryst IIT-Delhi – 2016** Participated in Final Rounds held at IIT-D and Zonal Rank – IIIRD.<br>
-- **Technothlon IIT-Guwahati – 2015** All India Rank (Junior Squad) – 46. <br>
-- Participated in: 
-  - **Jawaharlal Nehru National Science Exhibition – 2017.**
-  - **KVS Regional Social Science Exhibition – 2017/2016.**
-  - **KVS Bharat Scouts & Guides Cub-Bulbul Utsav – 2012.**
-  - **National Integration Camp – 2012.**
-  - And various school level medals in SOF’s Olympiads. <br> <br>
-
 ## 👨🏻‍💼 Experience
 - IIT Booth Coordinator at PanIIT Alumni India. <br>
 - Conference Auditorium Coordinator at PanIIT Alumni India. <br>
 - College Ambassador at Techfest, IIT Bombay. <br>
 - Indigo Squad Member at Mood Indigo, IIT Bombay. <br> <br>
-
-## ✨ Interests and Hobbies
-- Conscientiousness <br>
-- Psychology <br>
-- Football <br>
-- Music <br> <br>
 
 <h2>
   <img src = "/GIFs/Skills.gif" height="27px" width="27px">
@@ -94,6 +67,23 @@
     <img width ='50px' src ='LOGOs/GitHub.svg'>
   </a>
 </p> <br>
+
+## 🏆 Achievements
+- **SOF’s National Cyber Olympiad – 2019** Zonal Rank – 1 and International Rank – 7. <br>
+- **RoboTryst IIT-Delhi – 2016** Participated in Final Rounds held at IIT-D and Zonal Rank – IIIRD.<br>
+- **Technothlon IIT-Guwahati – 2015** All India Rank (Junior Squad) – 46. <br>
+- Participated in: 
+  - **Jawaharlal Nehru National Science Exhibition – 2017.**
+  - **KVS Regional Social Science Exhibition – 2017/2016.**
+  - **KVS Bharat Scouts & Guides Cub-Bulbul Utsav – 2012.**
+  - **National Integration Camp – 2012.**
+  - And various school level medals in SOF’s Olympiads. <br> <br>
+
+## ✨ Interests and Hobbies
+- Conscientiousness <br>
+- Psychology <br>
+- Football <br>
+- Music <br> <br>
 
 <h2>
   <img src = "/GIFs/Connect [Dark-Mode].gif" width = 50px>
