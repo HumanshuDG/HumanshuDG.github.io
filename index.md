@@ -83,6 +83,8 @@
 - Football <br>
 - Music <br> <br>
 
+## 🗏 [Résumé](https://drive.google.com/file/d/1YaTVXPeNc7zGFBJ4DJddkl6Rsae9OONc/view)
+
 <h2>
   <img src = "/GIFs/Connect [Dark-Mode].gif" width = 50px>
   Connect with me on
