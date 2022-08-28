@@ -6,9 +6,9 @@
 <img align="center" class="Welcome SVG" src="https://readme-typing-svg.herokuapp.com?color=%23DC5CC4&size=40&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+my+GitHub+Portfolio!" />
 
 ## 📜 Education
-- Pursuing **Game Design and Gamefication Course** from Edugametion Oy, Finland. <br>
-- Pursuing **BSc in Programming and Data Science** from IIT Madras. <br>
+- Pursuing **BS in Data Science and Applications** from IIT Madras. <br>
 - Pursuing **BTech in Computer Technology with Honors in Artificial Intelligence and Machine Learning** from YCCE, Nagpur. <br>
+- Completed **Game Design and Gamefication Course** from Edugametion Oy, Finland. <br>
 - Completed schooling from Kendriya Vidyalaya Ambajhari, Nagpur. <br> <br>
 
 ## 👨🏻‍💼 Experience
